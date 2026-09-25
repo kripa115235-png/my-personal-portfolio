@@ -3,8 +3,9 @@
 This repository contains my personal portfolio website created using **HTML**. The website introduces my profile, technical skills, projects, and contact information.
 
 ## Website Preview
+<img width="1466" height="876" alt="image" src="https://github.com/user-attachments/assets/d6d08fdf-790f-4e1d-9326-85b174c908ea" />
 
-![Personal Portfolio Home](portfolio-home.png)
+
 
 ## Project Section
 
